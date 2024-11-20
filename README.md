@@ -64,12 +64,10 @@ Par défaut, l'application utilise une base de données H2 en mémoire. Pour uti
 
 L'API REST expose les endpoints suivants:
 
-* **`GET /api/comptes`**: Récupérer tous les comptes.
-* **`GET /api/comptes/{id}`**: Récupérer un compte par son ID.
-* **`POST /api/comptes`**: Créer un nouveau compte.
-* **`PUT /api/comptes/{id}`**: Mettre à jour un compte.
-* **`DELETE /api/comptes/{id}`**: Supprimer un compte.
-* **`POST /api/comptes/{id}/depot`**: Effectuer un dépôt sur un compte.
-* **`POST /api/comptes/{id}/retrait`**: Effectuer un retrait sur un compte.
+* **`GET /banque/comptes`**: Récupérer tous les comptes.
+* **`GET /banque/comptes/{id}`**: Récupérer un compte par son ID.
+* **`POST /banque/comptes`**: Créer un nouveau compte.
+* **`PUT /banque/comptes/{id}`**: Mettre à jour un compte.
+* **`DELETE /banque/comptes/{id}`**: Supprimer un compte.
 
 
