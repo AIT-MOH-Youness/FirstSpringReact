@@ -19,14 +19,13 @@ Ce projet est une application web de gestion des comptes bancaires développée 
     * Spring Data JPA: Simplifie l'accès aux données avec JPA.
     * Spring Web: Pour la création de l'API REST.
     * H2 Database: Base de données en mémoire pour le développement.
-    * Validation des données avec les annotations `@Valid` et les contraintes de validation (e.g., `@NotNull`, `@Min`).
 * **Frontend:**
     * React: Bibliothèque JavaScript pour la création d'interfaces utilisateur.
     * Axios: Client HTTP pour les appels API.
     * Material UI (facultatif):  Bibliothèque de composants React pour l'interface utilisateur.
 * **Autres:**
     * Maven: Gestion des dépendances backend.
-    * NPM/Yarn: Gestion des dépendances frontend.
+    * NPM: Gestion des dépendances frontend.
     * Lombok (facultatif):  Simplifie le code Java en générant automatiquement des méthodes comme les getters, setters, etc.
 
 ## Architecture
