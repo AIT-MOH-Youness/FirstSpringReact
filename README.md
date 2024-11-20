@@ -39,3 +39,9 @@ L'application suit une architecture client-serveur classique. Le frontend React 
 
 ```bash
 git clone https://github.com/AIT-MOH-Youness/FirstSpringReact.git
+
+
+2. **Cloner le repository :**
+
+```bash
+git clone https://github.com/AIT-MOH-Youness/FirstSpringReact.git
