@@ -70,3 +70,10 @@ L'API REST expose les endpoints suivants:
 * **`DELETE /banque/comptes/{id}`**: Supprimer un compte.
 
 
+## Démonstration
+
+La démostration est la suivante:
+
+https://github.com/user-attachments/assets/336927a8-b114-4af3-8d1e-9952f842c9e5
+
+
